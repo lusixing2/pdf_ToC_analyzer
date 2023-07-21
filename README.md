@@ -3,9 +3,14 @@ A Python tool that extract and parse table of contents in PDF file
 
 用 Python 提取 pdf 文档目录信息的工具，可以提取目录结构，定位章节在文档中的真实位置
 
-使用方法：
-1.将openai 的 api_key 复制到/src/config.json 里
-2.运行：
+安装：  
+```
+pip3 install -r requirements.txt
+```
+
+使用方法：  
+1.将openai 的 api_key 复制到/src/config.json 里  
+2.运行：  
 ```
 python main.py -f {pdf_file_path}
 ```

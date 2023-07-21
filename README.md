@@ -15,3 +15,4 @@ python main.py -f '../pdf_files/Szonyi-2017-The Art of Being Governed_ Everyda.p
 ```
 
 效果：
+![alt text](https://github.com/lusixing2/pdf_ToC_analyzer/blob/main/imgs/ToC_Analyzer_screenshot1.jpg?raw=true)
